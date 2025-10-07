@@ -55,13 +55,13 @@ console.log(env.MAX_RETRIES); // number | undefined
 
 Get auto-completion for all your environment variables:
 
-![Environment Variable Suggestions](./assets/env-suggestions.png)
+![Environment Variable Suggestions](./assets/type.jpg)
 
 ### 📊 Smart Error & Warning Messages
 
 Clear feedback during application startup:
 
-![Error and Warning Messages](./assets/error-warning-logs.png)
+![Error and Warning Messages](./assets/error.jpg)
 
 **Example output:**
 
