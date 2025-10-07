@@ -55,13 +55,13 @@ console.log(env.MAX_RETRIES); // number | undefined
 
 Get auto-completion for all your environment variables:
 
-![Environment Variable Suggestions](./assets/type.jpg)
+![Environment Variable Suggestions](https://github.com/withtahmid/safenv/blob/main/assets/type.jpg?raw=true)
 
 ### 📊 Smart Error & Warning Messages
 
 Clear feedback during application startup:
 
-![Error and Warning Messages](./assets/error.jpg)
+![Error and Warning Messages](https://raw.githubusercontent.com/withtahmid/safenv/refs/heads/main/assets/error.jpg)
 
 **Example output:**
 
