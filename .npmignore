@@ -1,0 +1,9 @@
+# .npmignore
+src/
+tests/
+assets/
+node_modules/
+*.log
+tsconfig.json
+pnpm-lock.yaml
+.vscode/
